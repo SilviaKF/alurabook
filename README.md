@@ -4,7 +4,7 @@
 
 Projeto feito durante o curso de responsividade da Alura.
 
-![Tela do site](https://github.com/SilviaKF/alurabook/assets/140977249/ba39e098-9f10-4b90-9fc5-a192362ed8d5)
+<img src="http://silviakf.com/outros/tela_alura_books.gif">
 
 <a href="https://www.figma.com/file/uGfo6CFXVIuReJLZTy2cCf/AluraBooks-(Copy)?type=design&node-id=37%3A94&mode=design&t=qicL8hhJaVLWs7nQ-1">Link</a> para visualizar a referência do projeto no Figma.
 
